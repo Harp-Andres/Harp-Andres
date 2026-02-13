@@ -10,17 +10,9 @@ Puedes ver mi trayectoria profesional y mis proyectos en funcionamiento aquí:
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-![Java](https://img.shields.io)
-![TypeScript](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![C#](https://img.shields.io)
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
-![Git](https://img.shields.io)
 
 ## 🛠️ Tecnologías y Herramientas
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3,Java,TypeScript,JavaScript,C#,Selenium,SerenityBDD,Appium,Katalon)](https://skillicons.dev)
 
 
 ---
