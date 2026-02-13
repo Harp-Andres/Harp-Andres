@@ -23,7 +23,7 @@ Puedes ver mis proyectos en funcionamiento aquí:
 
 ## 📫 Conecta conmigo
 * **LinkedIn:** [tu-usuario](https://linkedin.com)
-* **Email:** tu-correo@ejemplo.com (Escríbelo sin corchetes para que no sea un link azul si no quieres)
+* **Email:** andresrdrgzps05@gmail.com
 
 ---
 
