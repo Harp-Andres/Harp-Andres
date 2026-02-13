@@ -6,13 +6,11 @@ Egresado de Ingenieria de sistemas y con certificado LPI Linux Essentials | Apas
 
 ## 🚀 Mi Portafolio Web
 Puedes ver mis proyectos en funcionamiento aquí:
-👉 **[Visitar Mi Portafolio](https://harp-andres.github.io/MiPortafolio/)** 
-*(Asegúrate de que este sea el link correcto de tu despliegue)*
+👉 **[Visitar Mi Portafolio](https://harp-andres.github.io)**
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-
 ![Java](https://img.shields.io)
 ![TypeScript](https://img.shields.io)
 ![JavaScript](https://img.shields.io)
@@ -24,8 +22,11 @@ Puedes ver mis proyectos en funcionamiento aquí:
 ---
 
 ## 📫 Conecta conmigo
-* [LinkedIn](https://www.linkedin.com/in/andresrodriguezpisa-calidaddesoftware/)
-* [Email](andresrdrgzps05@gmail.com)
+* **LinkedIn:** [tu-usuario](https://linkedin.com)
+* **Email:** tu-correo@ejemplo.com (Escríbelo sin corchetes para que no sea un link azul si no quieres)
 
+---
 
-![Estadísticas de Andres](https://github-readme-stats.vercel.app)
+## 📊 Estadísticas de Andres
+![Estadísticas](https://github-readme-stats.vercel.app)
+
