@@ -22,7 +22,7 @@ Puedes ver mi trayectoria profesional y mis proyectos en funcionamiento aquí:
 ---
 
 ## 📫 Conecta conmigo
-* **LinkedIn:** [Hardware Andres Rodriguez P.](https://linkedin.com](https://www.linkedin.com/in/andresrodriguezpisa-calidaddesoftware/)
+* **LinkedIn:** [Hardware Andres Rodriguez P.](https://www.linkedin.com/in/andresrodriguezpisa-calidaddesoftware/)
 * **Email:** andresrdrgzps05@gmail.com
 
 ---
