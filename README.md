@@ -20,7 +20,7 @@ Puedes ver mi trayectoria profesional y mis proyectos en funcionamiento aquí:
 ![Git](https://img.shields.io)
 
 ## 🛠️ Tecnologías y Herramientas
-[![Mis Habilidades](https://skillicons.dev), ![Java](https://img.shields.io)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 ---
