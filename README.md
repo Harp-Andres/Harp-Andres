@@ -19,6 +19,10 @@ Puedes ver mi trayectoria profesional y mis proyectos en funcionamiento aquí:
 ![CSS3](https://img.shields.io)
 ![Git](https://img.shields.io)
 
+## 🛠️ Tecnologías y Herramientas
+[![Mis Habilidades](https://skillicons.dev)](https://skillicons.dev)
+
+
 ---
 
 ## 📫 Conecta conmigo
