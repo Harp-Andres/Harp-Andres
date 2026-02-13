@@ -13,20 +13,11 @@ Puedes ver mis proyectos en funcionamiento aquí:
 
 ## 🛠️ Tecnologías y Herramientas
 
-![JavaScript](https://img.shields.io)
+![JavaScript] (https://img.shields.io)
 ![Python](https://img.shields.io)
 ![HTML5](https://img.shields.io)
 ![CSS3](https://img.shields.io)
 ![Git](https://img.shields.io)
-
-
-
-
----
-
-## 📁 Proyectos Destacados
-*   **[Sistema de Control de Hardware](Link-del-repo)**: Descripción breve de lo que hace.
-*   **[Web Personal](https://github.com)**: El código fuente de mi página de presentación.
 
 ---
 
