@@ -13,7 +13,7 @@ Puedes ver mis proyectos en funcionamiento aquí:
 
 ## 🛠️ Tecnologías y Herramientas
 
-![JavaScript] (https://img.shields.io)
+![javascript](https://img.shields.io)
 ![Python](https://img.shields.io)
 ![HTML5](https://img.shields.io)
 ![CSS3](https://img.shields.io)
