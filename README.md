@@ -1,6 +1,6 @@
 # ¡Hola! Soy Andres (Harp-Andres) 👋
 
-Egresado de [Tu Carrera/Especialidad] | Apasionado por el desarrollo de Hardware y Software.
+Egresado de Ingenieria de sistemas y con certificado LPI Linux Essentials | Apasionado por el desarrollo de Software con calidad.
 
 ---
 
@@ -24,8 +24,8 @@ Puedes ver mis proyectos en funcionamiento aquí:
 ---
 
 ## 📫 Conecta conmigo
-* [LinkedIn](tu-link-aqui)
-* [Email](tu-correo-aqui)
+* [LinkedIn](https://www.linkedin.com/in/andresrodriguezpisa-calidaddesoftware/)
+* [Email](andresrdrgzps05@gmail.com)
 
 
 ![Estadísticas de Andres](https://github-readme-stats.vercel.app)
