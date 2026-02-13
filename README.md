@@ -5,7 +5,7 @@ Egresado de Ingenieria de sistemas y con certificado LPI Linux Essentials | Apas
 ---
 
 ## 🚀 Mi Portafolio Web
-Puedes ver mis proyectos en funcionamiento aquí:
+Puedes ver mi trayectoria profesional y mis proyectos en funcionamiento aquí:
 👉 **[Visitar Mi Portafolio](https://harp-andres.github.io)**
 
 ---
