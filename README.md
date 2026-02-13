@@ -12,7 +12,7 @@ Puedes ver mi trayectoria profesional y mis proyectos en funcionamiento aquí:
 
 
 ## 🛠️ Tecnologías y Herramientas
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3,Java,TypeScript,JavaScript,C#,Selenium,SerenityBDD,Appium,Katalon)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3,java,typescript,javascript,c#,selenium,serenityBDD,appium,katalon)](https://skillicons.dev)
 
 
 ---
