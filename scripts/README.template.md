@@ -2,9 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Andr%C3%A9s%20Rodr%C3%ADguez%20Pisa&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=SDET%20%7C%20Senior%20QA%20Automation%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" alt="Andrés Rodríguez Pisa — SDET | Senior QA Automation Engineer" width="100%" />
+# ¡Hola! Soy Andrés Rodríguez Pisa 👋
 
-<a href="{{PORTFOLIO_URL}}"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=%2B8+a%C3%B1os+asegurando+la+calidad+del+software;Automatizaci%C3%B3n+Web+%C2%B7+API+%C2%B7+Mobile;CI%2FCD+%C2%B7+DevOps+%C2%B7+Azure;IA+aplicada+a+QA+con+Copilot%2C+Cursor+y+Claude" alt="Especialidades" /></a>
+### SDET | Senior QA Automation Engineer | API · Backend · Mobile · Web | Entornos DevOps | IA aplicada a QA
+
+Ingeniero de Sistemas especializado en aseguramiento de calidad de software, con expertise en arquitectura de frameworks de automatización multiplataforma (Web, API, Mobile) y prácticas DevOps de clase empresarial. Sólida experiencia en diseño e implementación de estrategias QA con patrones avanzados (Screenplay, POM), CI/CD (GitHub Actions, GitLab CI, Jenkins, Azure DevOps), ecosistema Azure (Pipelines YAML, ACR, Blob Storage, Docker) y validación de servicios REST/SOAP con trazabilidad de calidad.
+
+📍 Bogotá, Colombia · 🎓 Ingeniero de Sistemas (UNAD) · 🐧 LPI Linux Essentials · ⚡ Scrum Practitioner
 
 {{CONTACT_BADGES}}
 
@@ -12,81 +16,82 @@
 
 ---
 
-## 👋 Sobre mí
-
-Soy **Andrés Rodríguez Pisa**, Ingeniero de Sistemas y **SDET / Senior QA Automation Engineer** con **más de 8 años de experiencia** en aseguramiento de calidad de software en sectores como banca, consultoría y plataformas de automatización de procesos. Diseño estrategias de calidad y **arquitecturas de automatización multiplataforma (Web, API y Mobile)** integradas en pipelines **CI/CD** con cultura DevOps.
-
-- 🔭 Actualmente soy **Test Automation Analyst III en GFT Technologies**, donde lidero la estrategia de automatización QA para servicios y front-end.
-- 🏗️ Construyo frameworks mantenibles con **Screenplay, Page Object Model y principios SOLID**.
-- ⚙️ Integro las pruebas en **GitHub Actions, GitLab CI, Jenkins y Azure DevOps**, con ejecución en contenedores y device farms.
-- 🔌 Valido servicios **REST/SOAP** y contratos con trazabilidad de calidad de punta a punta.
-- 🤖 Aplico IA a QA con **GitHub Copilot, Cursor, Claude y MCP Playwright** para diseñar escenarios, refactorizar y ampliar cobertura.
-- 👥 Estandarizo prácticas QA, reviso código y capacito equipos para elevar su madurez técnica.
-- 📍 Bogotá, Colombia.
-
 ## 🎯 Lo que aporto
 
 | 🧭 Estrategia de calidad | 🧪 Automatización | 🚀 Calidad continua |
 | :-- | :-- | :-- |
 | Test plans, DoD y trazabilidad de criterios de aceptación | Frameworks Web, API y Mobile listos para escalar | Pipelines CI/CD con reportes publicados y quality gates |
-| Pruebas funcionales, de integración y performance | Auto-curación de tests y validación visual con IA | Docker, Kubernetes y ecosistema Azure (ACR, AKS, Storage) |
+| Pruebas funcionales, de integración y performance | IA aplicada a QA con Copilot, Cursor, Claude y MCP Playwright | Docker, Kubernetes y ecosistema Azure (ACR, AKS, Storage) |
 
-## 🛠️ Stack principal
+---
 
-<p align="center">
-  <a href="{{PORTFOLIO_URL}}">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,cs,html,css,selenium,cypress,postman,gherkin,githubactions,gitlab,jenkins,docker,kubernetes,git,github,azure,aws,linux,mysql,postgresql,mongodb,gradle,maven,nodejs,bash,powershell,idea,vscode&perline=10" alt="Stack principal" />
-  </a>
-</p>
+## 🧰 Stack tecnológico
 
-## 🧰 Herramientas por especialidad
+{{STACK}}
 
-{{TOOLS_TABLE}}
+---
 
-## 💼 Experiencia reciente
+## 💼 Experiencia
 
-| Periodo | Rol | Empresa | Enfoque |
-| :-- | :-- | :-- | :-- |
-| Feb 2026 – Actualidad | Test Automation Analyst III | **GFT Technologies** | Estrategia QA en CI/CD, Karate, Serenity, performance y automatización con IA |
-| Ago 2025 – Dic 2025 | Senior QA Engineer L1 | **Bizagi** | Arquitecturas de automatización API, Web y Mobile sobre Azure y Docker |
-| Dic 2024 – Ago 2025 | Domain Consultant – QA Automation | **Tata Consultancy Services** | Marcos de automatización en pipelines YAML de Azure DevOps y principios SOLID |
-| Abr 2023 – Dic 2024 | QA Automation Engineer | **Banco de Occidente** | Pruebas multiplataforma en banca con GitHub Actions, GitLab CI y Azure DevOps |
+| Rol | Empresa | Periodo | Stack |
+| :--- | :--- | :--- | :--- |
+| **Test Automation Analyst III** | GFT Technologies | Feb 2026 – Actualidad | `Playwright · Selenium · Karate · GitHub Actions · Azure DevOps · IA` |
+| **Senior QA Engineer L1** | Bizagi Latam SAS | Ago 2025 – Dic 2025 | `Java · Selenium · Appium · REST Assured · Azure · Docker` |
+| **Domain Consultant – QA Automation** | Tata Consultancy Services (TCS) | Dic 2024 – Ago 2025 | `Azure DevOps · YAML · Selenium · Postman · Git` |
+| **QA Automation Engineer** | Banco de Occidente | Abr 2023 – Dic 2024 | `Playwright · Selenium · GitHub Actions · GitLab CI · Azure DevOps` |
 
 👉 Trayectoria completa, hoja de vida descargable (PDF/Word) y certificados en **[mi portafolio]({{PORTFOLIO_URL}})**.
 
-## 🚀 Proyectos destacados
+---
+
+## 🚀 Portafolio & proyectos
 
 | Proyecto | Descripción |
-| :-- | :-- |
+| :--- | :--- |
 | [**QA Playwright AI Framework**](https://github.com/Harp-Andres/qa-playwright-ai-framework) | Framework de automatización Web y API con Playwright y TypeScript, capa AI-ready para auto-curación, Docker y Kubernetes. |
 | [**Playwright Data-Driven E2E**](https://github.com/Harp-Andres/demo-playwright-datadriven-e2e) | Pruebas E2E data-driven alimentadas desde Excel, con Page Object Model por capas y mappers tipados. |
 | [**Appium Mobile Cloud Framework**](https://github.com/Harp-Andres/appium-mobile-cloud-automation-framework) | Automatización mobile en la nube sobre BrowserStack con Appium, Cucumber y reportes Allure. |
 | [**Appium Mobile Framework (Local)**](https://github.com/Harp-Andres/appium-mobile-automation-framework) | Automatización mobile en emulador y dispositivo real con Appium, Cucumber y JUnit 5. |
 | [**Serenity Screenplay Mobile**](https://github.com/Harp-Andres/demo-serenity-screenplay-mobile) | Patrón Screenplay sobre Serenity BDD y Appium para Android e iOS. |
-| [**Literalura**](https://github.com/Harp-Andres/Literalura) | Backend Spring Boot con consumo de API externa, JPA/PostgreSQL y arquitectura por capas. |
-| [**Mi Portafolio**](https://github.com/Harp-Andres/mi-portafolio) | Monorepo React + TypeScript con backend Python que genera la hoja de vida en Word y PDF, con despliegue continuo en GitHub Pages. |
 | [**Automation Test Reports Hub**](https://github.com/Harp-Andres/automation-test-reports-hub) | Portal de reportes Allure, Cucumber y Serenity publicado desde CI en GitHub Pages. |
+| [**Mi Portafolio**](https://github.com/Harp-Andres/mi-portafolio) | Monorepo React + TypeScript con backend Python que genera la hoja de vida en Word y PDF, con despliegue continuo en GitHub Pages. |
+| [**Literalura**](https://github.com/Harp-Andres/Literalura) | Backend Spring Boot con consumo de API externa, JPA/PostgreSQL y arquitectura por capas. |
 
-## 🎓 Formación y certificaciones
+---
 
-- 🎓 **Ingeniero de Sistemas**: Universidad Nacional Abierta y a Distancia (UNAD).
-- 🌐 **Tecnólogo en Gestión de Redes de Datos**: SENA.
-- 🐧 **LPI Linux Essentials**: Linux Professional Institute.
-- ⚡ **Scrum Practitioner**: CertMind.
-- 📚 Formación continua en DevOps, Docker, Jenkins, JMeter, Playwright, Appium, Cypress, Katalon e IA (Anthropic y Microsoft Copilot).
+## 🎓 Formación & certificaciones
+
+| Tipo | Detalle |
+| :--- | :--- |
+| Educación | Ingeniero de Sistemas — UNAD (2024) |
+| Educación | Tecnólogo en Gestión de Redes de Datos — SENA (2018) |
+| Oficial | **LPI Linux Essentials** |
+| Oficial | **Scrum Practitioner (CertMind)** |
+| Destacadas | Azure DevOps, Jenkins, Appium, Playwright, Cypress, Katalon, ISTQB CTFL, Claude / Copilot (Anthropic & Microsoft) |
+
+---
 
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harp-Andres&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Harp-Andres" />
+  <img src="https://streak-stats.demolab.com/?user=Harp-Andres&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones de Harp-Andres" />
 </p>
+
+---
 
 ## 📫 Conecta conmigo
 
-- 💼 **LinkedIn:** [Andrés Rodríguez Pisa]({{LINKEDIN_URL}})
-- 🌐 **Portafolio:** [harp-andres.github.io/mi-portafolio]({{PORTFOLIO_URL}})
-- ✉️ **Email:** [{{EMAIL}}](mailto:{{EMAIL}})
+- **LinkedIn:** [Andrés Rodríguez Pisa]({{LINKEDIN_URL}})
+- **Email:** [{{EMAIL}}](mailto:{{EMAIL}})
+- **Portafolio:** [harp-andres.github.io/mi-portafolio]({{PORTFOLIO_URL}})
+- **Ubicación:** Bogotá, Colombia
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=110&section=footer" alt="" width="100%" />
+---
+
+<div align="center">
+
+⭐ *Abierto a colaborar en calidad de software, automatización e IA aplicada a QA.*
+
+</div>
 
 {{BADGE_REFS}}

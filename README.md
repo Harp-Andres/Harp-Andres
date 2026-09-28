@@ -2,106 +2,171 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Andr%C3%A9s%20Rodr%C3%ADguez%20Pisa&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=SDET%20%7C%20Senior%20QA%20Automation%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" alt="Andrés Rodríguez Pisa — SDET | Senior QA Automation Engineer" width="100%" />
+# ¡Hola! Soy Andrés Rodríguez Pisa 👋
 
-<a href="https://harp-andres.github.io/mi-portafolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=%2B8+a%C3%B1os+asegurando+la+calidad+del+software;Automatizaci%C3%B3n+Web+%C2%B7+API+%C2%B7+Mobile;CI%2FCD+%C2%B7+DevOps+%C2%B7+Azure;IA+aplicada+a+QA+con+Copilot%2C+Cursor+y+Claude" alt="Especialidades" /></a>
+### SDET | Senior QA Automation Engineer | API · Backend · Mobile · Web | Entornos DevOps | IA aplicada a QA
 
-[![Portafolio][b-portafolio]](https://harp-andres.github.io/mi-portafolio/) [![LinkedIn][b-linkedin]](https://www.linkedin.com/in/andresrodriguezpisa-seniorqa/) [![Email][b-email]](mailto:andresrdrgzps05@gmail.com)
+Ingeniero de Sistemas especializado en aseguramiento de calidad de software, con expertise en arquitectura de frameworks de automatización multiplataforma (Web, API, Mobile) y prácticas DevOps de clase empresarial. Sólida experiencia en diseño e implementación de estrategias QA con patrones avanzados (Screenplay, POM), CI/CD (GitHub Actions, GitLab CI, Jenkins, Azure DevOps), ecosistema Azure (Pipelines YAML, ACR, Blob Storage, Docker) y validación de servicios REST/SOAP con trazabilidad de calidad.
+
+📍 Bogotá, Colombia · 🎓 Ingeniero de Sistemas (UNAD) · 🐧 LPI Linux Essentials · ⚡ Scrum Practitioner
+
+[![Portafolio][b-portafolio]](https://harp-andres.github.io/mi-portafolio/) [![LinkedIn][b-linkedin]](https://www.linkedin.com/in/andresrodriguezpisa-seniorqa/) [![Email][b-email]](mailto:andresrdrgzps05@gmail.com) [![GitHub][b-github]](https://github.com/Harp-Andres) [![Repo mi-portafolio][b-repo-mi-portafolio]](https://github.com/Harp-Andres/mi-portafolio)
 
 </div>
 
 ---
-
-## 👋 Sobre mí
-
-Soy **Andrés Rodríguez Pisa**, Ingeniero de Sistemas y **SDET / Senior QA Automation Engineer** con **más de 8 años de experiencia** en aseguramiento de calidad de software en sectores como banca, consultoría y plataformas de automatización de procesos. Diseño estrategias de calidad y **arquitecturas de automatización multiplataforma (Web, API y Mobile)** integradas en pipelines **CI/CD** con cultura DevOps.
-
-- 🔭 Actualmente soy **Test Automation Analyst III en GFT Technologies**, donde lidero la estrategia de automatización QA para servicios y front-end.
-- 🏗️ Construyo frameworks mantenibles con **Screenplay, Page Object Model y principios SOLID**.
-- ⚙️ Integro las pruebas en **GitHub Actions, GitLab CI, Jenkins y Azure DevOps**, con ejecución en contenedores y device farms.
-- 🔌 Valido servicios **REST/SOAP** y contratos con trazabilidad de calidad de punta a punta.
-- 🤖 Aplico IA a QA con **GitHub Copilot, Cursor, Claude y MCP Playwright** para diseñar escenarios, refactorizar y ampliar cobertura.
-- 👥 Estandarizo prácticas QA, reviso código y capacito equipos para elevar su madurez técnica.
-- 📍 Bogotá, Colombia.
 
 ## 🎯 Lo que aporto
 
 | 🧭 Estrategia de calidad | 🧪 Automatización | 🚀 Calidad continua |
 | :-- | :-- | :-- |
 | Test plans, DoD y trazabilidad de criterios de aceptación | Frameworks Web, API y Mobile listos para escalar | Pipelines CI/CD con reportes publicados y quality gates |
-| Pruebas funcionales, de integración y performance | Auto-curación de tests y validación visual con IA | Docker, Kubernetes y ecosistema Azure (ACR, AKS, Storage) |
+| Pruebas funcionales, de integración y performance | IA aplicada a QA con Copilot, Cursor, Claude y MCP Playwright | Docker, Kubernetes y ecosistema Azure (ACR, AKS, Storage) |
 
-## 🛠️ Stack principal
+---
+
+## 🧰 Stack tecnológico
+
+### Lenguajes
 
 <p align="center">
-  <a href="https://harp-andres.github.io/mi-portafolio/">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,cs,html,css,selenium,cypress,postman,gherkin,githubactions,gitlab,jenkins,docker,kubernetes,git,github,azure,aws,linux,mysql,postgresql,mongodb,gradle,maven,nodejs,bash,powershell,idea,vscode&perline=10" alt="Stack principal" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cs,html,css&perline=6" alt="Lenguajes" />
 </p>
 
-## 🧰 Herramientas por especialidad
+<div align="center">
 
-| Especialidad | Herramientas |
-| :-- | :-- |
-| **🌐 Automatización Web** | ![Selenium][b-selenium] ![Playwright][b-playwright] ![Cypress][b-cypress] ![Serenity BDD][b-serenity-bdd] ![HTML5][b-html5] ![CSS][b-css] |
-| **📱 Automatización Mobile** | ![Appium][b-appium] ![Android][b-android] ![iOS][b-ios] ![BrowserStack][b-browserstack] ![Sauce Labs][b-sauce-labs] ![AWS Device Farm][b-aws-device-farm] |
-| **🔌 API & Backend Testing** | ![REST Assured][b-rest-assured] ![Karate][b-karate] ![Postman][b-postman] ![SoapUI][b-soapui] ![Swagger][b-swagger] |
-| **🥒 BDD & Frameworks** | ![Cucumber][b-cucumber] ![Reqnroll][b-reqnroll] ![JUnit 5][b-junit-5] ![TestNG][b-testng] ![Katalon Studio][b-katalon-studio] |
-| **⚡ Performance** | ![JMeter][b-jmeter] ![Gatling][b-gatling] |
-| **🚀 CI/CD & DevOps** | ![GitHub Actions][b-github-actions] ![GitLab CI][b-gitlab-ci] ![Jenkins][b-jenkins] ![Azure DevOps][b-azure-devops] ![Docker][b-docker] ![Git][b-git] ![SonarQube][b-sonarqube] |
-| **☁️ Azure & Contenedores** | ![Azure][b-azure] ![AKS][b-aks] ![ACR][b-acr] ![Kubernetes][b-kubernetes] |
-| **💻 Lenguajes** | ![Java][b-java] ![JavaScript][b-javascript] ![TypeScript][b-typescript] ![C#][b-c] ![SQL][b-sql] |
-| **🗄️ Bases de datos** | ![SQL Server][b-sql-server] ![MySQL][b-mysql] ![Oracle][b-oracle] ![PostgreSQL][b-postgresql] ![MongoDB][b-mongodb] |
-| **🧱 Build & Reporting** | ![Gradle][b-gradle] ![Maven][b-maven] ![Node.js][b-node-js] ![Allure Report][b-allure-report] ![GitHub Pages][b-github-pages] |
-| **🤖 IA aplicada a QA** | ![GitHub Copilot][b-github-copilot] ![Cursor][b-cursor] ![Claude][b-claude] ![MCP Playwright][b-mcp-playwright] |
-| **📋 Gestión ágil** | ![Jira][b-jira] ![Azure Boards][b-azure-boards] ![Scrum][b-scrum] ![Kanban][b-kanban] |
-| **🖥️ Entornos & Scripting** | ![PowerShell][b-powershell] ![Bash][b-bash] ![Linux][b-linux] ![VirtualBox][b-virtualbox] ![VMware][b-vmware] ![IntelliJ IDEA][b-intellij-idea] ![VS Code][b-vs-code] |
+![SQL][b-sql]
 
-## 💼 Experiencia reciente
+</div>
 
-| Periodo | Rol | Empresa | Enfoque |
-| :-- | :-- | :-- | :-- |
-| Feb 2026 – Actualidad | Test Automation Analyst III | **GFT Technologies** | Estrategia QA en CI/CD, Karate, Serenity, performance y automatización con IA |
-| Ago 2025 – Dic 2025 | Senior QA Engineer L1 | **Bizagi** | Arquitecturas de automatización API, Web y Mobile sobre Azure y Docker |
-| Dic 2024 – Ago 2025 | Domain Consultant – QA Automation | **Tata Consultancy Services** | Marcos de automatización en pipelines YAML de Azure DevOps y principios SOLID |
-| Abr 2023 – Dic 2024 | QA Automation Engineer | **Banco de Occidente** | Pruebas multiplataforma en banca con GitHub Actions, GitLab CI y Azure DevOps |
+### Automatización Web · Mobile · API
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,postman,gherkin&perline=4" alt="Automatización Web · Mobile · API" />
+</p>
+
+<div align="center">
+
+![Playwright][b-playwright] ![Appium][b-appium] ![Serenity BDD][b-serenity-bdd] ![Katalon Studio][b-katalon-studio] ![REST Assured][b-rest-assured] ![Karate][b-karate] ![SoapUI][b-soapui] ![Swagger][b-swagger] ![Cucumber][b-cucumber] ![JUnit 5][b-junit-5] ![TestNG][b-testng] ![Reqnroll][b-reqnroll] ![Android][b-android] ![iOS][b-ios] ![JMeter][b-jmeter] ![Gatling][b-gatling] ![Allure Report][b-allure-report]
+
+</div>
+
+### CI/CD · DevOps · Cloud · Azure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,docker,kubernetes,linux,aws,azure&perline=10" alt="CI/CD · DevOps · Cloud · Azure" />
+</p>
+
+<div align="center">
+
+![Azure DevOps][b-azure-devops] ![AKS][b-aks] ![ACR][b-acr] ![SonarQube][b-sonarqube] ![BrowserStack][b-browserstack] ![Sauce Labs][b-sauce-labs] ![AWS Device Farm][b-aws-device-farm] ![GitHub Pages][b-github-pages]
+
+</div>
+
+### Build · Bases de datos
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gradle,maven,nodejs,mysql,postgres,mongodb&perline=6" alt="Build · Bases de datos" />
+</p>
+
+<div align="center">
+
+![SQL Server][b-sql-server] ![Oracle][b-oracle]
+
+</div>
+
+### IDEs · Consola · Virtualización
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,powershell,bash&perline=4" alt="IDEs · Consola · Virtualización" />
+</p>
+
+<div align="center">
+
+![VirtualBox][b-virtualbox] ![VMware][b-vmware]
+
+</div>
+
+### IA & Productividad
+
+<div align="center">
+
+![GitHub Copilot][b-github-copilot] ![Claude][b-claude] ![Cursor][b-cursor] ![MCP Playwright][b-mcp-playwright] ![Prompting avanzado][b-prompting-avanzado]
+
+</div>
+
+### Gestión & Colaboración
+
+<div align="center">
+
+![Jira][b-jira] ![Azure Boards][b-azure-boards] ![Scrum][b-scrum] ![Kanban][b-kanban] ![Screenplay + POM][b-screenplay-pom]
+
+</div>
+
+---
+
+## 💼 Experiencia
+
+| Rol | Empresa | Periodo | Stack |
+| :--- | :--- | :--- | :--- |
+| **Test Automation Analyst III** | GFT Technologies | Feb 2026 – Actualidad | `Playwright · Selenium · Karate · GitHub Actions · Azure DevOps · IA` |
+| **Senior QA Engineer L1** | Bizagi Latam SAS | Ago 2025 – Dic 2025 | `Java · Selenium · Appium · REST Assured · Azure · Docker` |
+| **Domain Consultant – QA Automation** | Tata Consultancy Services (TCS) | Dic 2024 – Ago 2025 | `Azure DevOps · YAML · Selenium · Postman · Git` |
+| **QA Automation Engineer** | Banco de Occidente | Abr 2023 – Dic 2024 | `Playwright · Selenium · GitHub Actions · GitLab CI · Azure DevOps` |
 
 👉 Trayectoria completa, hoja de vida descargable (PDF/Word) y certificados en **[mi portafolio](https://harp-andres.github.io/mi-portafolio/)**.
 
-## 🚀 Proyectos destacados
+---
+
+## 🚀 Portafolio & proyectos
 
 | Proyecto | Descripción |
-| :-- | :-- |
+| :--- | :--- |
 | [**QA Playwright AI Framework**](https://github.com/Harp-Andres/qa-playwright-ai-framework) | Framework de automatización Web y API con Playwright y TypeScript, capa AI-ready para auto-curación, Docker y Kubernetes. |
 | [**Playwright Data-Driven E2E**](https://github.com/Harp-Andres/demo-playwright-datadriven-e2e) | Pruebas E2E data-driven alimentadas desde Excel, con Page Object Model por capas y mappers tipados. |
 | [**Appium Mobile Cloud Framework**](https://github.com/Harp-Andres/appium-mobile-cloud-automation-framework) | Automatización mobile en la nube sobre BrowserStack con Appium, Cucumber y reportes Allure. |
 | [**Appium Mobile Framework (Local)**](https://github.com/Harp-Andres/appium-mobile-automation-framework) | Automatización mobile en emulador y dispositivo real con Appium, Cucumber y JUnit 5. |
 | [**Serenity Screenplay Mobile**](https://github.com/Harp-Andres/demo-serenity-screenplay-mobile) | Patrón Screenplay sobre Serenity BDD y Appium para Android e iOS. |
-| [**Literalura**](https://github.com/Harp-Andres/Literalura) | Backend Spring Boot con consumo de API externa, JPA/PostgreSQL y arquitectura por capas. |
-| [**Mi Portafolio**](https://github.com/Harp-Andres/mi-portafolio) | Monorepo React + TypeScript con backend Python que genera la hoja de vida en Word y PDF, con despliegue continuo en GitHub Pages. |
 | [**Automation Test Reports Hub**](https://github.com/Harp-Andres/automation-test-reports-hub) | Portal de reportes Allure, Cucumber y Serenity publicado desde CI en GitHub Pages. |
+| [**Mi Portafolio**](https://github.com/Harp-Andres/mi-portafolio) | Monorepo React + TypeScript con backend Python que genera la hoja de vida en Word y PDF, con despliegue continuo en GitHub Pages. |
+| [**Literalura**](https://github.com/Harp-Andres/Literalura) | Backend Spring Boot con consumo de API externa, JPA/PostgreSQL y arquitectura por capas. |
 
-## 🎓 Formación y certificaciones
+---
 
-- 🎓 **Ingeniero de Sistemas**: Universidad Nacional Abierta y a Distancia (UNAD).
-- 🌐 **Tecnólogo en Gestión de Redes de Datos**: SENA.
-- 🐧 **LPI Linux Essentials**: Linux Professional Institute.
-- ⚡ **Scrum Practitioner**: CertMind.
-- 📚 Formación continua en DevOps, Docker, Jenkins, JMeter, Playwright, Appium, Cypress, Katalon e IA (Anthropic y Microsoft Copilot).
+## 🎓 Formación & certificaciones
+
+| Tipo | Detalle |
+| :--- | :--- |
+| Educación | Ingeniero de Sistemas — UNAD (2024) |
+| Educación | Tecnólogo en Gestión de Redes de Datos — SENA (2018) |
+| Oficial | **LPI Linux Essentials** |
+| Oficial | **Scrum Practitioner (CertMind)** |
+| Destacadas | Azure DevOps, Jenkins, Appium, Playwright, Cypress, Katalon, ISTQB CTFL, Claude / Copilot (Anthropic & Microsoft) |
+
+---
 
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harp-Andres&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Harp-Andres" />
+  <img src="https://streak-stats.demolab.com/?user=Harp-Andres&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones de Harp-Andres" />
 </p>
+
+---
 
 ## 📫 Conecta conmigo
 
-- 💼 **LinkedIn:** [Andrés Rodríguez Pisa](https://www.linkedin.com/in/andresrodriguezpisa-seniorqa/)
-- 🌐 **Portafolio:** [harp-andres.github.io/mi-portafolio](https://harp-andres.github.io/mi-portafolio/)
-- ✉️ **Email:** [andresrdrgzps05@gmail.com](mailto:andresrdrgzps05@gmail.com)
+- **LinkedIn:** [Andrés Rodríguez Pisa](https://www.linkedin.com/in/andresrodriguezpisa-seniorqa/)
+- **Email:** [andresrdrgzps05@gmail.com](mailto:andresrdrgzps05@gmail.com)
+- **Portafolio:** [harp-andres.github.io/mi-portafolio](https://harp-andres.github.io/mi-portafolio/)
+- **Ubicación:** Bogotá, Colombia
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=110&section=footer" alt="" width="100%" />
+---
+
+<div align="center">
+
+⭐ *Abierto a colaborar en calidad de software, automatización e IA aplicada a QA.*
+
+</div>
 
 [b-acr]: https://img.shields.io/badge/ACR-005BA1?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNDQuMCA0LjdhNS45IDUuOSAwIDE1LjYgNC4wbDM1LjkgMTA2LjRhNS45IDUuOSAwIDAxLTUuNiA3LjhoNDEuNGE1LjkgNS45IDAgNC44LTIuNSA1LjkgNS45IDAgMC44LTUuM0w5MS4wIDguN2E1LjkgNS45IDAgMDAtNS42LTQuMHptLTEuMyAwLjVhNS45IDUuOSAwIDAwLTUuNiA0LjBMMS4xIDExNS41YTUuOSA1LjkgMCA1LjYgNy44aDI4LjljMS4yIDAgMi40LTAuNCAzLjUtMS4xYTUuOSA1LjkgMCAyLjItMi45bDcuMC0yMC43LTEzLjQtMTIuOWMtMC4yLTAuMy0xLjQtMi4zLTAuNC00LjAgMS4xLTEuNyAzLjAtMS43IDMuMC0xLjdoMTcuM2w5LjEtMjYuMUw0OC4zIDguM2MtMC4wLTAuMi0wLjktMS40LTIuMy0yLjMtMS40LTAuOS0zLjMtMC45LTMuMy0wLjl6bS00LjkgNzUuN2EyLjcgMi43IDAgMDAtMS45IDQuN2wzNy44IDM1LjNjMS4xIDEuMCAyLjUgMS42IDQuMCAxLjYgMCAwIDEuMyAwLjEgMi4xLTAuMCAxLjgtMC4zIDMuNS0xLjggNC4xLTIuNCAxLjUtMS45IDAuOC01LjAgMC44LTUuMGwtMTEuNC0zNC4zeiIvPjwvc3ZnPg%3D%3D
 [b-aks]: https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white
@@ -109,57 +174,36 @@ Soy **Andrés Rodríguez Pisa**, Ingeniero de Sistemas y **SDET / Senior QA Auto
 [b-android]: https://img.shields.io/badge/Android-1E8E3E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMjEuMCA0My4wYy00LjEtMC4wLTcuMyAzLjMtNy4zIDcuM2wwLjAgMzAuN2E3LjMgNy4zIDAgNy4zIDcuMyA3LjMgNy4zIDAgNy4zLTcuM1Y1MC4zYTcuMyA3LjMgMCAwMC03LjMtNy4zbTU5LjItMjcuNmw1LjEtOS40YTEuMCAxLjAgMCAwMC0wLjQtMS40IDEuMCAxLjAgMCAwMC0xLjQgMC40bC01LjIgOS41Yy00LjQtMS45LTkuMi0zLjAtMTQuNC0zLjAtNS4xLTAuMC0xMC4wIDEuMS0xNC4zIDMuMEw0NC41IDUuMWExLjAgMS4wIDAgMDAtMS40LTAuNCAxLjAgMS4wIDAgMDAtMC40IDEuNGw1LjEgOS4zYy0xMC4xIDUuMi0xNi45IDE1LjEtMTYuOSAyNi40bDY2LjEtMC4wYzAuMC0xMS40LTYuOC0yMS4yLTE2LjgtMjYuNE00OC45IDI5LjlhMi44IDIuOCAwIDEuMC01LjUgMi44IDIuOCAwIDEyLjggMi44IDIuOCAyLjggMCAwMS0yLjggMi44bTMwLjEtMC4wYTIuOCAyLjggMCAwMS0yLjgtMi44IDIuOCAyLjggMCAxMi44LTIuOCAyLjggMi44IDAgMTIuOCAyLjggMi44IDIuOCAwIDAxLTIuOCAyLjhNMzEuMiA0NC40bDAuMCA0Ny42YTcuOCA3LjggMCA3LjggNy44bDUuMyAwLjAgMC4wIDE2LjNjLTAuMCA0LjAgMy4zIDcuMyA3LjMgNy4zIDQuMSAwIDcuMy0zLjMgNy4zLTcuM2wtMC4wLTE2LjMgOS45LTAuMCAwLjAgMTYuM2MwIDQuMCAzLjMgNy4zIDcuMyA3LjMgNC4xIDAuMCA3LjMtMy4zIDcuMy03LjNsLTAuMC0xNi4zIDUuNC0wLjBhNy44IDcuOCAwIDcuOC03LjhsLTAuMC00Ny42LTY1LjYgMC4wem04My4xIDUuOWE3LjMgNy4zIDAgMDAtNy4zLTcuM2MtNC4xLTAuMC03LjMgMy4zLTcuMyA3LjNsMC4wIDMwLjdhNy4zIDcuMyAwIDcuMyA3LjMgNy4zIDcuMyAwIDcuMy03LjNsLTAuMC0zMC43eiIvPjwvc3ZnPg%3D%3D
 [b-appium]: https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white
 [b-aws-device-farm]: https://img.shields.io/badge/AWS%20Device%20Farm-232F3E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTA5IDI2Yy0yIDAtNCAwLTUgMS0yIDEtMyAxLTQgMmExMSAxMSAwIDAgMC0zIDNjLTEgMS0xIDMtMSA1IDAgMiAxIDQgMiA2IDEgMiA0IDMgNyA0bDYgMmMyIDEgMyAxIDQgMiAxIDEgMSAyIDEgMyAwIDItMSAzLTIgNC0xIDEtMyAxLTYgMS0yIDAtMy0wLTUtMWEyMyAyMyAwIDAgMS01LTFjLTAtMC0xLTAtMS0wYTIgMiAwIDAgMC0xLTBjLTEgMC0xIDAtMSAxdjJhMyAzIDAgMCAwIDAgMWMwIDAgMSAxIDEgMSAxIDEgMyAxIDUgMiAyIDEgNCAxIDYgMSAyIDAgNC0wIDYtMSAyLTEgMy0xIDUtMiAxLTEgMi0yIDMtNCAxLTEgMS0zIDEtNSAwLTItMS00LTItNi0xLTItMy0zLTctNGwtNi0yYy0yLTEtNC0yLTUtMi0xLTEtMS0yLTEtMyAwLTIgMS0zIDItNCAxLTEgMy0xIDYtMSAzIDAgNiAxIDggMiAxIDAgMSAxIDIgMSAxIDAgMS0wIDEtMXYtMmMwLTEtMC0xLTAtMS0wLTAtMS0xLTEtMS0wLTAtMS0xLTItMWEzMyAzMyAwIDAgMC0yLTFjLTEtMC0yLTAtMy0wYTIxIDIxIDAgMCAwLTMtMHptLTg3IDBjLTIgMC01IDAtNyAxLTIgMS00IDEtNSAyLTEgMC0xIDEtMSAxLTAgMC0wIDEtMCAxdjJjMCAxIDAgMSAxIDEgMCAwIDAtMCAxLTAgMC0wIDEtMCAxLTFhMzMgMzMgMCAwIDEgNS0xQTE5IDE5IDAgMCAxIDIxIDMyYzMgMCA2IDEgNyAyIDEgMSAyIDQgMiA3djNjLTItMC0zLTEtNS0xLTItMC0zLTAtNC0wLTQgMC04IDEtMTAgMy0zIDItNCA1LTQgOSAwIDMgMSA2IDMgOCAyIDIgNSAzIDggMyA1IDAgOS0yIDEyLTZhMzQgMzQgMCAwIDAgMSAyIDEzIDEzIDAgMCAwIDIgMmMwIDAgMSAxIDEgMSAwIDAgMS0wIDEtMGwzLTJjMS0wIDEtMSAxLTFhMiAyIDAgMCAwLTAtMSAyMiAyMiAwIDAgMS0xLTNjLTAtMS0wLTItMC00aC0wVjQwYzAtNS0xLTgtMy0xMC0yLTItNi0zLTExLTN6bTIwIDFjLTEgMC0xIDAtMSAxIDAgMCAwIDEgMCAybDEwIDMzYzAgMSAxIDEgMSAyIDAgMCAxIDAgMiAwaDRjMSAwIDEtMCAyLTAgMC0wIDEtMSAxLTJsNi0yNyA3IDI3YzAgMSAwIDEgMSAyIDAgMCAxIDAgMiAwaDRjMSAwIDEtMCAyLTAgMC0wIDEtMSAxLTJMOTEgMzBjMC0wIDAtMSAwLTEgMC0wIDAtMCAwLTEgMC0xLTAtMS0xLTFIODZjLTEgMC0xIDAtMiAwLTAgMC0xIDEtMSAyTDc3IDU4bC03LTI4Yy0wLTEtMC0xLTEtMi0wLTAtMS0wLTItMGgtM2MtMSAwLTEgMC0yIDAtMCAwLTEgMS0xIDJsLTcgMjgtNy0yOGMtMC0xLTEtMS0xLTItMC0wLTEtMC0yLTBoLTR6TTIyIDQ3YTMyIDMyIDAgMCAxIDQgMCAzNCAzNCAwIDAgMSA0IDF2MmMwIDEtMCAzLTAgNC0wIDEtMSAyLTEgMy0xIDEtMiAyLTQgMy0yIDEtMyAxLTQgMS0yIDAtMy0xLTQtMi0xLTEtMi0yLTItNCAwLTIgMS00IDItNSAxLTEgMy0yIDYtMnpNMTE4IDczYy00IDAtMTAgMS0xNCA0LTEgMS0xIDIgMCAyIDUtMSAxNC0yIDE2IDEgMiAyLTIgMTItNCAxNi0xIDEgMSAyIDIgMSA3LTYgOS0xOSA4LTIxLTEtMS00LTItOS0yek0yIDc2Yy0xIDAtMSAxLTAgMiAxNyAxNSAzOCAyNCA2MyAyNCAxNyAwIDM3LTUgNTEtMTYgMi0yIDAtNC0yLTMtMTYgNy0zMiAxMC00OCAxMC0yMyAwLTQ1LTYtNjMtMTctMC0wLTEtMC0xLTB6Ii8%2BPC9zdmc%2B
-[b-azure]: https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNDQuMCA0LjdhNS45IDUuOSAwIDE1LjYgNC4wbDM1LjkgMTA2LjRhNS45IDUuOSAwIDAxLTUuNiA3LjhoNDEuNGE1LjkgNS45IDAgNC44LTIuNSA1LjkgNS45IDAgMC44LTUuM0w5MS4wIDguN2E1LjkgNS45IDAgMDAtNS42LTQuMHptLTEuMyAwLjVhNS45IDUuOSAwIDAwLTUuNiA0LjBMMS4xIDExNS41YTUuOSA1LjkgMCA1LjYgNy44aDI4LjljMS4yIDAgMi40LTAuNCAzLjUtMS4xYTUuOSA1LjkgMCAyLjItMi45bDcuMC0yMC43LTEzLjQtMTIuOWMtMC4yLTAuMy0xLjQtMi4zLTAuNC00LjAgMS4xLTEuNyAzLjAtMS43IDMuMC0xLjdoMTcuM2w5LjEtMjYuMUw0OC4zIDguM2MtMC4wLTAuMi0wLjktMS40LTIuMy0yLjMtMS40LTAuOS0zLjMtMC45LTMuMy0wLjl6bS00LjkgNzUuN2EyLjcgMi43IDAgMDAtMS45IDQuN2wzNy44IDM1LjNjMS4xIDEuMCAyLjUgMS42IDQuMCAxLjYgMCAwIDEuMyAwLjEgMi4xLTAuMCAxLjgtMC4zIDMuNS0xLjggNC4xLTIuNCAxLjUtMS45IDAuOC01LjAgMC44LTUuMGwtMTEuNC0zNC4zeiIvPjwvc3ZnPg%3D%3D
 [b-azure-boards]: https://img.shields.io/badge/Azure%20Boards-0078D7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTIwLjkgMjguNHY2OS4zbC0yOC40IDIzLjMtNDQuMS0xNi4xdjE1LjlMMjMuNCA4OC4ybDcyLjcgNS43VjMxLjZaTTk2LjYgMzEuOSA1NS44IDcuMXYxNi4zTDE4LjMgMzQuNCA3LjEgNDguOXYzMi44bDE2LjEgNy4xVjQ2LjdabTAgMCIvPjwvc3ZnPg%3D%3D
 [b-azure-devops]: https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTIwLjkgMjguNHY2OS4zbC0yOC40IDIzLjMtNDQuMS0xNi4xdjE1LjlMMjMuNCA4OC4ybDcyLjcgNS43VjMxLjZaTTk2LjYgMzEuOSA1NS44IDcuMXYxNi4zTDE4LjMgMzQuNCA3LjEgNDguOXYzMi44bDE2LjEgNy4xVjQ2LjdabTAgMCIvPjwvc3ZnPg%3D%3D
-[b-bash]: https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white
 [b-browserstack]: https://img.shields.io/badge/BrowserStack-E66F32?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNNjUgMzBhMjIgMjIgMCAwIDAtMjIgMjJBMjIgMjIgMCAwIDAgNjUgNzVhMjIgMjIgMCAwIDAgMjItMjIgMjIgMjIgMCAwIDAtMjItMjJ6bTExIDhhNCA3IDI0IDAgMSAxIDAgNCA3IDI0IDAgMSAxIDggNCA3IDI0IDAgMS03IDUgNCA3IDI0IDAgMS0xLTggNCA3IDI0IDAgMSA2LTV6TTY2IDBhNTAgNTAgMCAwIDAtNTAgNTAgNTAgNTAgMCAwIDAgMjggNDUgNTAgNTAgMCAwIDEtMS0wIDQzIDQzIDAgMCAwIDMgMSA0MyA0MyAwIDAgMS05LTggNDMgNDMgMCAwIDAgMjkgMTIgNDMgNDMgMCAwIDAgNDMtNDNBNDMgNDMgMCAwIDAgOTggMzBhNDMgNDMgMCAwIDEgMTMgMzEgNDMgNDMgMCAwIDEtNyAyNCA0NiA0NiAwIDAgMCAxMS0zMCA0NiA0NiAwIDAgMC00Ni00NiA0NiA0NiAwIDAgMC0zMiAxMyA0NiA0NiAwIDAgMSAwLTBBNDYgNDYgMCAwIDEgNzIgNmE0NiA0NiAwIDAgMSA0NiA0NiA0NiA0NiAwIDAgMS0zIDE2IDU4IDU4IDAgMCAxLTU3IDUwQTU4IDU4IDAgMCAxIDEgNjlhNjQgNjQgMCAwIDAgNjQgNTkgNjQgNjQgMCAwIDAgNjQtNjQgNjQgNjQgMCAwIDAtNTEtNjNBNTAgNTAgMCAwIDAgNjYgMHptLTMgMTJhMzAgMzAgMCAwIDEgMjIgOSAzMCAzMCAwIDAgMC0xOS03IDMwIDMwIDAgMCAwLTMwIDMwIDMwIDMwIDAgMCAwIDcgMTkgMjQgMjQgMCAwIDEtMi0xMCAyNCAyNCAwIDAgMSAyNC0yNCAyNCAyNCAwIDAgMSAyNCAyNCAyNCAyNCAwIDAgMS0yNCAyNCAyNCAyNCAwIDAgMS0yMi0xMyAzMCAzMCAwIDAgMS0xMC0yMkEzMCAzMCAwIDAgMSA2MiAxMnptOSA4aDBhMjYgMjYgMCAwIDEgMjYgMjYgMjYgMjYgMCAwIDEtOCAxOSAyNiAyNiAwIDAgMCA2LTE2IDI2IDI2IDAgMCAwLTI2LTI2IDI2IDI2IDAgMCAwLTE2IDYgMjYgMjYgMCAwIDEgMTktOHptLTM4IDZhMzYgMzYgMCAwIDAtMTAgMjQgMzYgMzYgMCAwIDAgMzYgMzYgMzYgMzYgMCAwIDAgMjQtMTAgMzYgMzYgMCAwIDEtMjcgMTIgMzYgMzYgMCAwIDEtMzEtMTkgMzYgMzYgMCAwIDEtMCAwIDM2IDM2IDAgMCAxLTQtMTYgMzYgMzYgMCAwIDEgMTEtMjYgNDYgNDYgMCAwIDEgMC0wIDM2IDM2IDAgMCAxIDEtMXptNTYgMzlhMjYgMjYgMCAwIDEtMSAxIDI2IDI2IDAgMCAxLTAgMCAyNiAyNiAwIDAgMCAxLTF6bS01IDVhMjYgMjYgMCAwIDEtMSAwIDI2IDI2IDAgMCAwIDEtMHptLTUgM2EyNiAyNiAwIDAgMS0xIDAgMjYgMjYgMCAwIDAgMS0wek01OCAwQTU4IDU4IDAgMCAwIDAgNThhNTggNTggMCAwIDAgNTggNTggNTggNTggMCAwIDAgNTYtNDQgNDYgNDYgMCAwIDEtMTAgMTQgNDMgNDMgMCAwIDEtMzUgMTkgNDMgNDMgMCAwIDEtMTktNCA1MCA1MCAwIDAgMS0zNy00OEE1MCA1MCAwIDAgMSA2MyAwYTU4IDU4IDAgMCAwLTUtMHptNiAwYTY0IDY0IDAgMCAwLTAgMCA1MCA1MCAwIDAgMSAxIDAgNTAgNTAgMCAwIDEgMS0wIDY0IDY0IDAgMCAwLTEtMHpNNDggMzRhMjYgMjYgMCAwIDAtMCAwIDI2IDI2IDAgMCAxIDAtMHoiLz48L3N2Zz4%3D
-[b-c]: https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE3LjUgMzMuNWwwLjMtMC4yYy0wLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtMC44LTAuNS0xLjktMC43LTMuMS0wLjctMS4yIDAtMi4zIDAuMy0zLjEgMC43bC00OCAyNy45Yy0xLjcgMS0yLjkgMy41LTIuOSA1LjR2NTUuN2MwIDEuMSAwLjIgMi4zIDAuOSAzLjRsLTAuMiAwLjFjMC41IDAuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45YzAuOCAwLjUgMS45IDAuNyAzLjEgMC43IDEuMiAwIDIuMy0wLjMgMy4xLTAuN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYzAuMS0wLjggMC0xLjctMC40LTIuNnptLTUzLjUgNzBjLTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjVjOS4xIDAgMTcuMS01IDIxLjMtMTIuNGwxMi45IDcuNmMtNi44IDExLjgtMTkuNiAxOS44LTM0LjIgMTkuOHpNMTE1IDYyaC0zLjJsLTAuOSA0aDQuMXY1aC01bC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZIOTR2LTVoMy41bDAuOS00SDk0di01aDUuM2wxLjItNmg0LjlsLTEuMiA2aDMuOGwxLjItNmg0LjhsLTEuMiA2aDIuMnY1em0tMTIuNyA0aDMuOGwwLjktNGgtMy44eiIvPjwvc3ZnPg%3D%3D
 [b-claude]: https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white
-[b-css]: https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white
 [b-cucumber]: https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=black
 [b-cursor]: https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white
-[b-cypress]: https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white
-[b-docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [b-email]: https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
 [b-gatling]: https://img.shields.io/badge/Gatling-FF9E2A?style=for-the-badge&logo=gatling&logoColor=white
-[b-git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-[b-github-actions]: https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+[b-github]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 [b-github-copilot]: https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
 [b-github-pages]: https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white
-[b-gitlab-ci]: https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
-[b-gradle]: https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white
-[b-html5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[b-intellij-idea]: https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white
 [b-ios]: https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
-[b-java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-[b-javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[b-jenkins]: https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
 [b-jira]: https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
 [b-jmeter]: https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white
 [b-junit-5]: https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white
 [b-kanban]: https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge
 [b-karate]: https://img.shields.io/badge/Karate-E08A00?style=for-the-badge
 [b-katalon-studio]: https://img.shields.io/badge/Katalon%20Studio-00A35C?style=for-the-badge
-[b-kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
 [b-linkedin]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45IDguOSAwIDAwLTkgOC44djEwNC40YTguOSA4LjkgMCAwMDkgOC44aDEwNGE4LjkgOC45IDAgMDA5LTguOFYxMS44QTguOSA4LjkgMCAwMDExNiAzek0zOS4yIDEwN0gyMS4xVjQ4LjdoMTguMXptLTktNjYuMmExMC41IDEwLjUgMCAxMTEwLjUtMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41IDEwLjV6TTEwNyAxMDdIODguOVY3OC43YzAtNi44LTAuMS0xNS40LTkuNC0xNS40cy0xMC45IDcuNC0xMC45IDE1VjEwN0g1MC41VjQ4LjdoMTcuNHY4aDAuMmMyLjQtNC42IDguMy05LjQgMTcuMS05LjRDMTAzLjYgNDcuMyAxMDcgNTkuNCAxMDcgNzV6Ii8%2BPC9zdmc%2B
-[b-linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-[b-maven]: https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white
 [b-mcp-playwright]: https://img.shields.io/badge/MCP%20Playwright-1A1A1A?style=for-the-badge&logo=modelcontextprotocol&logoColor=white
-[b-mongodb]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-[b-mysql]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-[b-node-js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [b-oracle]: https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNNTUuNCA2Ni41aDguM2wtNC40LTcuMS04LjEgMTIuOGgtMy43TDU3LjQgNTYuOGEyLjMgMi4zIDAgMTEuOS0xLjBjMC44IDAgMS41IDAuNCAxLjkgMS4wbDkuOSAxNS40SDY3LjRsLTEuNy0yLjloLTguNGwtMS44LTIuOXptMzguMiAyLjlWNTYuMGgtMy4xdjE0LjdjMCAwLjQgMC4yIDAuOCAwLjUgMS4xIDAuMyAwLjMgMC43IDAuNSAxLjEgMC41aDE0LjJsMS44LTIuOUg5My42em0tNTEuNy0yLjRjMy4wIDAgNS41LTIuNCA1LjUtNS41cy0yLjUtNS41LTUuNS01LjVIMjguM3YxNi4yaDMuMVY1OC44aDEwLjNjMS41IDAgMi42IDEuMiAyLjYgMi42cy0xLjIgMi42LTIuNiAyLjZsLTguOC0wLjAgOS4zIDguMWg0LjVsLTYuMy01LjNoMS40ek05LjEgNzIuMmMtNC41IDAtOC4xLTMuNi04LjEtOC4xczMuNi04LjEgOC4xLTguMWg5LjRjNC41IDAgOC4xIDMuNiA4LjEgOC4xcy0zLjYgOC4xLTguMSA4LjFIOS4xem05LjItMi45YTUuMiA1LjIgMCA1LjMtNS4yIDUuMyA1LjMgMCAwMC01LjMtNS4zSDkuM2E1LjMgNS4zIDAgMDAtNS4zIDUuMyA1LjIgNS4yIDAgNS4zIDUuMmg5LjB6bTU5LjMgMi45Yy00LjUgMC04LjEtMy42LTguMS04LjFzMy42LTguMSA4LjEtOC4xaDExLjJsLTEuOCAyLjlINzcuOGE1LjMgNS4zIDAgMDAtNS4zIDUuM2MwIDIuOSAyLjQgNS4yIDUuMyA1LjJoMTEuM2wtMS44IDIuOWgtOS42em0zOC4yLTIuOWE1LjIgNS4yIDAgMDEtNS4xLTMuOGgxMy4zbDEuOC0yLjloLTE1LjJhNS4zIDUuMyAwIDE1LjEtMy44aDkuMmwxLjktMi45aC0xMS4yYy00LjUgMC04LjEgMy42LTguMSA4LjFzMy42IDguMSA4LjEgOC4xaDkuNmwxLjgtMi45aC0xMS4zIi8%2BPC9zdmc%2B
 [b-playwright]: https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtNzIuMSA4Ni4xLTAuNi0wLjFjLTEzLjEtMy44LTE1LjItMTQuMy0xNS4yLTE0LjNsMTguMiA1LjFMODQuMiAzOS44bC0wLjEtMC4wYy0xMS44LTMuMi0xOS42LTguNy0yMi43LTExLjMtNC40LTMuNy02LjMtNi4yLTguMi0yLjQtMS43IDMuNC0zLjggOS4wLTUuOSAxNi44LTQuNSAxNi45LTcuOSA1Mi40IDIwLjAgNTkuOWwwLjYgMC4xem0tMTguOC0zMC45czQuNC02LjggMTEuOS00LjdjNy41IDIuMSA4LjAgMTAuNCA4LjAgMTAuNHptLTguNSAyMy41TDMxLjggODIuNHMxLjQtOC4wIDExLjAtMTEuMmwtNy4zLTI3LjYtMC42IDAuMmMtOS4xIDIuNS0xNi41IDEuOC0xOS42IDEuMy00LjQtMC44LTYuNi0xLjctNi40IDEuNiAwLjIgMi45IDAuOSA3LjUgMi41IDEzLjQgMy41IDEzLjAgMTQuOSAzNy45IDM2LjQgMzIuMWwwLjYtMC4yLTMuNi0xMy4zWk0xOS41IDYwLjNsMTUuMy00LjBzLTAuNCA1LjktNi4yIDcuNGMtNS43IDEuNS05LjEtMy40LTkuMS0zLjR6bTg5LjgtMTkuMGMtNC4wIDAuNy0xMy41IDEuNi0yNS4zLTEuNi0xMS44LTMuMi0xOS42LTguNy0yMi43LTExLjMtNC40LTMuNy02LjMtNi4yLTguMi0yLjQtMS43IDMuNC0zLjggOS4wLTUuOSAxNi44LTQuNSAxNi45LTcuOSA1Mi40IDIwLjAgNTkuOSAyNy45IDcuNSA0Mi44LTI1LjAgNDcuMy00MS45IDIuMS03LjggMy4wLTEzLjcgMy4yLTE3LjUgMC4zLTQuMy0yLjctMy4xLTguMy0yLjF6TTUzLjMgNTUuM3M0LjQtNi44IDExLjktNC43YzcuNSAyLjEgOC4wIDEwLjQgOC4wIDEwLjR6bTE4LjIgMzAuN2MtMTMuMS0zLjgtMTUuMi0xNC4zLTE1LjItMTQuM2wzNS4zIDkuOWMwLTAuMC03LjEgOC4yLTIwLjEgNC41em0xMi41LTIxLjVzNC40LTYuOCAxMS45LTQuN2M3LjUgMi4xIDguMCAxMC40IDguMCAxMC40ek01MS43IDgzLjl2LTcuMmwtMTkuOSA1LjdzMS41LTguNiAxMS45LTExLjVjMy4yLTAuOSA1LjgtMC45IDguMS0wLjVWNDEuMGgxMC4wYy0xLjEtMy40LTIuMS01LjktMy4wLTcuNy0xLjUtMy4wLTMuMC0xLjAtNi40IDEuOC0yLjQgMi4wLTguNCA2LjMtMTcuNiA4LjctOS4xIDIuNS0xNi41IDEuOC0xOS42IDEuMy00LjQtMC44LTYuNi0xLjctNi40IDEuNiAwLjIgMi45IDAuOSA3LjUgMi41IDEzLjQgMy41IDEzLjAgMTQuOSAzNy45IDM2LjQgMzIuMSA1LjYtMS41IDkuNi00LjUgMTIuNC04LjNoLTguM1ptLTMyLjItMjMuNiAxNS4zLTQuMHMtMC40IDUuOS02LjIgNy40Yy01LjcgMS41LTkuMS0zLjQtOS4xLTMuNHoiLz48L3N2Zz4%3D
 [b-portafolio]: https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white
-[b-postgresql]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-[b-postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-[b-powershell]: https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMjQuOSAxOS40Yy0xLjAtMS4yLTIuNC0xLjktNC4xLTEuOWgtOTIuNmMtMy40IDAtNi43IDIuNi03LjQgNi4wTDIuMiAxMDQuMGMtMC40IDEuNy0wLjEgMy40IDAuOSA0LjYgMS4wIDEuMiAyLjQgMS45IDQuMSAxLjl2MC4wSDk5LjhjMy40IDAgNi43LTIuNiA3LjQtNi4wbDE4LjYtODAuNWMwLjQtMS43IDAuMS0zLjQtMC45LTQuNnptLTk4LjYgNzcuMmMtMS43LTIuNC0xLjMtNS43IDAuOS03LjNsMzcuNC0yNy4xdi0wLjZMNDEuMiAzNi42Yy0xLjktMi4wLTEuNy01LjMgMC40LTcuNCAyLjItMi4wIDUuNS0yLjAgNy40IDAuMGwyOC4yIDMwLjBjMS42IDEuNyAxLjcgNC4zIDAuNSA2LjMtMC40IDAuOC0xLjIgMS42LTIuNiAyLjZsLTQxLjUgMjkuOGMtMi4zIDEuNi01LjUgMS4wLTcuMy0xLjR6bTU5LjUgMC41SDYzLjVjLTIuNiAwLTQuNy0yLjEtNC43LTQuN3MyLjEtNC43IDQuNy00LjdoMjIuM2MyLjYgMCA0LjcgMi4xIDQuNyA0LjdzLTIuMSA0LjctNC43IDQuN3oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg%3D%3D
+[b-prompting-avanzado]: https://img.shields.io/badge/Prompting%20avanzado-7C3AED?style=for-the-badge
+[b-repo-mi-portafolio]: https://img.shields.io/badge/Repo%20mi--portafolio-111827?style=for-the-badge&logo=github&logoColor=white
 [b-reqnroll]: https://img.shields.io/badge/Reqnroll-512BD4?style=for-the-badge
 [b-rest-assured]: https://img.shields.io/badge/REST%20Assured-00A86B?style=for-the-badge
 [b-sauce-labs]: https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white
+[b-screenplay-pom]: https://img.shields.io/badge/Screenplay%20%2B%20POM-111827?style=for-the-badge
 [b-scrum]: https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge
-[b-selenium]: https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white
 [b-serenity-bdd]: https://img.shields.io/badge/Serenity%20BDD-3C8D3F?style=for-the-badge
 [b-soapui]: https://img.shields.io/badge/SoapUI-6D9E2E?style=for-the-badge
 [b-sonarqube]: https://img.shields.io/badge/SonarQube-126ED3?style=for-the-badge&logo=sonarqubeserver&logoColor=white
@@ -167,7 +211,5 @@ Soy **Andrés Rodríguez Pisa**, Ingeniero de Sistemas y **SDET / Senior QA Auto
 [b-sql-server]: https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNNjQgOGMtMyAwLTcgMC0xMCAwYTk5IDk5IDAgMCAwLTYgMWMtMiAwLTQgMS02IDEtMiAwLTMgMS01IDEtMSAwLTEgMS0yIDEtMSAwLTIgMS0zIDEtMCAwLTAgMC0xIDBhOSA5IDAgMCAwLTIgMiA1IDUgMCAwIDAtMSAxIDQgNCAwIDAgMC0wIDJjMCAwIDAgMSAwIDEgMCAwIDAgMSAxIDEgMCAwIDEgMSAxIDFhMTIgMTIgMCAwIDAgMiAyIDIzIDIzIDAgMCAwIDMgMWMtMCAwLTAgMC0wIDBhODEgODEgMCAwIDAgNyAyYzIgMSA1IDEgNyAxIDIgMCA1IDEgNyAxYTc5IDc5IDAgMCAwIDcgMGMyIDAgNSAwIDctMGE4MSA4MSAwIDAgMCA3LTFjMC0wIDEtMCAxLTAgMS0wIDEtMCAyLTBhNTcgNTcgMCAwIDAgNC0xIDU1IDU1IDAgMCAwIDctMmMxLTAgMi0xIDMtMWEyMCAyMCAwIDAgMCAyLTEgMTEgMTEgMCAwIDAgMi0xYzAtMCAxLTEgMS0xIDAtMCAwLTEgMC0xYTMgMyAwIDAgMC0wLTIgNSA1IDAgMCAwLTEtMSA5IDkgMCAwIDAtMS0xIDEwIDEwIDAgMCAwLTEtMCAxNSAxNSAwIDAgMC0xLTEgMjMgMjMgMCAwIDAtNC0yIDUzIDUzIDAgMCAwLTctMiA3OCA3OCAwIDAgMC02LTEgOTcgOTcgMCAwIDAtNy0xYy0yLTAtNS0wLTctMFpNMTggMjB2ODhjMCA5IDIwIDE2IDQ1IDE2SDY0YzI1IDAgNDYtNyA0Ni0xNnYtODhjMCA5LTIwIDE2LTQ2IDE2cy00Ni03LTQ2LTE2Wm0yMiAzNmMyLTAgNSAwIDcgMXY2YTEyIDEyIDAgMCAwLTctMiA1IDUgMCAwIDAtMyAxIDIgMiAwIDAgMC0xIDIgMyAzIDAgMCAwIDEgMiAxMyAxMyAwIDAgMCA0IDIgMTcgMTcgMCAwIDEgNiA0IDcgNyAwIDAgMSAyIDUgOCA4IDAgMCAxLTIgNiAxMyAxMyAwIDAgMS04IDIgMTUgMTUgMCAwIDEtOC0ydi03YTEyIDEyIDAgMCAwIDggMyA2IDYgMCAwIDAgMy0xIDMgMyAwIDAgMCAxLTIgMyAzIDAgMCAwLTEtMiAyMSAyMSAwIDAgMC00LTNjLTUtMi03LTUtNy05YTggOCAwIDAgMSAzLTYgMTIgMTIgMCAwIDEgOC0yWm0yNiAwYTE0IDE0IDAgMCAxIDcgMkExMyAxMyAwIDAgMSA3OCA2NGExNyAxNyAwIDAgMSAyIDggMTcgMTcgMCAwIDEtMiA5IDEzIDEzIDAgMCAxLTcgNWw5IDhoLTlsLTYtN2ExNSAxNSAwIDAgMS03LTIgMTMgMTMgMCAwIDEtNS01IDE2IDE2IDAgMCAxLTItN0ExNyAxNyAwIDAgMSA1MyA2NGExMyAxMyAwIDAgMSA1LTUgMTUgMTUgMCAwIDEgOC0yWm0xOSAwaDZ2MjRoMTF2NUg4NVptLTE5IDVhNyA3IDAgMCAwLTYgMyAxMSAxMSAwIDAgMC0yIDcgMTEgMTEgMCAwIDAgMiA3IDcgNyAwIDAgMCA1IDMgNyA3IDAgMCAwIDUtMiAxMCAxMCAwIDAgMCAyLTdjMC0zLTEtNS0yLTdhNiA2IDAgMCAwLTUtM1ptMCAwIi8%2BPC9zdmc%2B
 [b-swagger]: https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black
 [b-testng]: https://img.shields.io/badge/TestNG-C0392B?style=for-the-badge
-[b-typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [b-virtualbox]: https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white
 [b-vmware]: https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white
-[b-vs-code]: https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik05MC44IDEyNy4xYTguMCA4LjAgMCAwIDAgNi4zLTAuMmwyNi40LTEyLjdhOCA4IDAgMCAwIDQuNS03LjJWMjEuMGE4IDggMCAwIDAtNC41LTcuMkw5Ny4xIDEuMWE4LjAgOC4wIDAgMCAwLTkuMSAxLjVsLTUwLjUgNDYuMEwxNS42IDMyLjBhNS4zIDUuMyAwIDAgMC02LjggMC4zbC03LjAgNi40YTUuMyA1LjMgMCAwIDAtMC4wIDcuOUwyMC44IDY0IDEuNyA4MS40YTUuMyA1LjMgMCAwIDAgMC4wIDcuOWw3LjAgNi40YTUuMyA1LjMgMCAwIDAgNi44IDAuM2wyMi4wLTE2LjcgNTAuNSA0Ni4wYTguMCA4LjAgMCAwIDAgMi43IDEuOFptNS4zLTkyLjJMNTcuNyA2NGwzOC4zIDI5LjFWMzQuOVoiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg%3D%3D
