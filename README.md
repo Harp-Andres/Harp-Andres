@@ -20,9 +20,6 @@ Ingeniero de Sistemas especializado en aseguramiento de calidad de software, con
 
 ## 🧰 Stack tecnológico
 
-> Alineado con la hoja de vida y el portafolio en [`mi-portafolio`](https://github.com/Harp-Andres/mi-portafolio)  
-> (`packages/core/src/data/cv-data.ts` — single source of truth).
-
 ### Lenguajes
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,typescript,cs,html,css&perline=6" alt="Lenguajes" />
@@ -161,6 +158,5 @@ Ingeniero de Sistemas especializado en aseguramiento de calidad de software, con
 
 ⭐ *Datos sincronizados con [`mi-portafolio`](https://github.com/Harp-Andres/mi-portafolio) · abierto a colaborar en calidad de software, automatización e IA aplicada a QA.*
 
-<sub>Regenerar: <code>pnpm sync:github-profile</code></sub>
 
 </div>
