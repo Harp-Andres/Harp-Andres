@@ -152,7 +152,7 @@ Ingeniero de Sistemas especializado en aseguramiento de calidad de software, con
 
 - **LinkedIn:** [Andrés Rodríguez Pisa](https://www.linkedin.com/in/andresrodriguezpisa-qa/)
 - **Email:** [andresrdrgzps05@gmail.com](mailto:andresrdrgzps05@gmail.com)
-- **Portafolio:** [harp-andres.github.io/MiPortafolio](https://harp-andres.github.io/MiPortafolio)
+- **Portafolio:** [harp-andres.github.io/mi-portafolio](https://harp-andres.github.io/mi-portafolio)
 - **Ubicación:** Bogotá, Colombia
 
 ---
